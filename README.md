@@ -9,4 +9,4 @@
 - ⚡ Fun fact: ...I develop recipes on my freetime
 
 
-[![masgeeg's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeekb&theme=react-dark)](https://github.com/masgeek)
+[![masgeeg's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeek&theme=react-dark)](https://github.com/masgeek)
