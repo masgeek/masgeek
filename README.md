@@ -12,5 +12,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=masgeek&show_icons=true&locale=en">
 
 
+[![masgeek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masgeek)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![masgeek's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeek&theme=react-dark)](https://github.com/masgeek)
