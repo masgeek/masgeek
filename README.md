@@ -7,9 +7,9 @@
 - ⚡ Fun fact: ...I develop recipes on my freetime
 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true&count_private=true">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=masgeek&show_icons=true&locale=en">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=masgeek&show_icons=true&locale=en&count_private=true">
 
 
 [![masgeek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masgeek)](https://github.com/anuraghazra/github-readme-stats)
