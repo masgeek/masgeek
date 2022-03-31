@@ -8,5 +8,6 @@
 - 📫 How to reach me: ...here
 - ⚡ Fun fact: ...I develop recipes on my freetime
 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=gthaka&show_icons=true&layout=compact">
 
 [![masgeek's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeek&theme=react-dark)](https://github.com/masgeek)
