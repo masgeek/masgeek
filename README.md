@@ -16,3 +16,5 @@
 
 
 [![masgeek's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeek&theme=react-dark&count_private=true)](https://github.com/masgeek)
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=masgeek">
