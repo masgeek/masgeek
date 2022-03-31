@@ -7,9 +7,9 @@
 - ⚡ Fun fact: ...I develop recipes on my freetime
 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true&count_private=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true&count_private=true"/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=masgeek&show_icons=true&locale=en&count_private=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=masgeek&show_icons=true&locale=en&count_private=true"/>
 
 
 [![masgeek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masgeek)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,6 +18,4 @@
 [![masgeek's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeek&theme=react-dark&count_private=true)](https://github.com/masgeek)
 
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=masgeek&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=masgeek&show-avatar=false"/>
