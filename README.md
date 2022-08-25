@@ -19,3 +19,5 @@
 
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=masgeek&show-avatar=false"/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=masgeek.masgeek" alt="visitor badge"/>
