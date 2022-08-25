@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I’m an experienced software engineeer with specialty on backend, mobile apps and system integrations
+ I’m an experienced software engineer with specialty on backend, mobile apps and system integrations
  
 - 🌱 I’m currently learning container orchestration
 - 📫 How to reach me: ...here
