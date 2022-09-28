@@ -20,7 +20,10 @@
 
 [![masgeek's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeek&theme=react-dark&count_private=true)](https://github.com/masgeek)
 
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=masgeek&show-avatar=false"/>
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=masgeek.masgeek" alt="visitor badge"/>
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/munywele"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
