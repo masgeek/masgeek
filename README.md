@@ -6,15 +6,16 @@
 - 📫 How to reach me: ...here
 - ⚡ Fun fact: ...I develop recipes on my freetime
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31nm2vysignr2m5mn2sx42esz5ma)
+
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true&count_private=true"/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=masgeek&theme=radical&show_icons=true&locale=en&count_private=true"/>
+<a href="https://github.com/masgeek"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=masgeek&theme=radical&title_color=ff3068"></a>
 
-
-  <a href="https://github.com/masgeek"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=masgeek&theme=radical&title_color=ff3068"></a>
-  
-  <a href="https://github.com/masgeek"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=masgeek&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&count_private=tru"></a>
+<a href="https://github.com/masgeek"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=masgeek&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&count_private=tru"></a>
 
 [![masgeek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masgeek)](https://github.com/anuraghazra/github-readme-stats)
 
