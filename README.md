@@ -12,9 +12,9 @@
 
 <!--img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true&count_private=true"/-->
 
-<a href="https://github.com/masgeek"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=masgeek&count_private=true&theme=radical&title_color=ff3068"></a>
+<a href="https://github.com/masgeek"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=masgeek&count_private=true&theme=radical&title_color=7CF3A0"></a>
 
-<a href="https://github.com/masgeek"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=masgeek&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&count_private=true"></a>
+<a href="https://github.com/masgeek"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=masgeek&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=7CF3A0&fire=7CF3A0&sideNums=7CF3A0&count_private=true"></a>
 
 [![masgeek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masgeek)](https://github.com/anuraghazra/github-readme-stats)
 
