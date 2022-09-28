@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...I develop recipes on my freetime
 
 ### Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nm2vysignr2m5mn2sx42esz5ma&cover_image=true&theme=default&bar_color=91d190&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nm2vysignr2m5mn2sx42esz5ma&cover_image=true&theme=default&bar_color=91d190&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nm2vysignr2m5mn2sx42esz5ma&redirect=true)
 
 <!--img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true&count_private=true"/-->
 
