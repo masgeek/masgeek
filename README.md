@@ -25,5 +25,5 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
- <a href="https://www.linkedin.com/in/munywele"><img src="[https://img.shields.io/badge/-Sammy%20M-green](https://img.shields.io/badge/-Sammy%20M-green)?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/munywele"><img src="[https://img.shields.io/badge/Sammy%20M----brightgreen]([https://img.shields.io/badge/-Sammy%20M-green](https://img.shields.io/badge/Sammy%20M----brightgreen))?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
