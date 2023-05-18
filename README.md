@@ -21,9 +21,7 @@
 
 ``STATS``
 
-[![masgeek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=masgeek&theme=github_dark)](https://github.com/masgeek/github-readme-stats)
-
-[![masgeek's github activity graph](https://activity-graph.herokuapp.com/graph?username=masgeek&theme=react-dark&count_private=true)](https://github.com/masgeek)
+[![masgeek's github activity graph](https://github-readme-activity-graph.cyclic.app/?username=masgeek&theme=react-dark&count_private=true)](https://github.com/masgeek)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=masgeek.masgeek" alt="visitor badge"/>
 
