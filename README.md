@@ -15,10 +15,6 @@
 
 <a href="https://github.com/masgeek"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=masgeek&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=7CF3A0&fire=7CF3A0&sideNums=7CF3A0&count_private=true"></a>
 
-<a href="https://github.com/masgeek">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=masgeek&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
- </a>
-
 ``STATS``
 
 [![masgeek's github activity graph](https://github-readme-activity-graph.cyclic.app/?username=masgeek&theme=react-dark&count_private=true)](https://github.com/masgeek)
