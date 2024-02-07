@@ -26,6 +26,15 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=masgeek.masgeek" alt="visitor badge"/>
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=masgeek&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=masgeek&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masgeek&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=masgeek&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
