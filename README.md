@@ -6,11 +6,6 @@
 - 📫 How to reach me: ...here
 - ⚡ Fun fact: ...I develop recipes
 
-##### [Metrics]
-
-<img src="./github-metrics.svg">
-
-
 ### Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nm2vysignr2m5mn2sx42esz5ma&cover_image=true&theme=default&bar_color=91d190&bar_color_cover=false)](https://open.spotify.com/user/31nm2vysignr2m5mn2sx42esz5ma?si=re-6p8U5RK2t2_6Bt6RLUw&utm_source=copy-link&nd=1)
 
