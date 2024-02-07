@@ -6,7 +6,7 @@
 - 📫 How to reach me: ...here
 - ⚡ Fun fact: ...I develop recipes
 
-![Metrics]
+##### [Metrics]
 
 <img src="./github-metrics.svg">
 
