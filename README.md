@@ -1,13 +1,14 @@
 ### Hi there 👋
 
- I’m an experienced software engineer with a specialty in backend, mobile apps, and system integrations
+[![Contact me on Codementor](https://www.codementor.io/m-badges/sammymunywele/find-me-on-cm-b.svg)](https://www.codementor.io/@sammymunywele?refer=badge)
+
+
+ I’m an experienced software engineer with a speciality in backend, mobile apps, and system integrations
  
 - 🌱 I’m currently learning container orchestration
 - 📫 How to reach me: ...here
 - ⚡ Fun fact: ...I develop recipes
 
-### Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nm2vysignr2m5mn2sx42esz5ma&cover_image=true&theme=default&bar_color=91d190&bar_color_cover=false)](https://open.spotify.com/user/31nm2vysignr2m5mn2sx42esz5ma?si=re-6p8U5RK2t2_6Bt6RLUw&utm_source=copy-link&nd=1)
 
 <!--img align='left' src="https://github-readme-stats.vercel.app/api?username=masgeek&show_icons=true&count_private=true"/-->
 
