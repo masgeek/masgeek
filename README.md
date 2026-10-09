@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior Software Engineer · Backend & Platform · Systems Integration · AI Engineering</strong><br/>
-  14+ years building production software, APIs, integrations, data systems and infrastructure
+  10+ years building production software, APIs, integrations, data systems and infrastructure
 </p>
 
 <p align="center">
